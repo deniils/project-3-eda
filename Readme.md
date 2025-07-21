@@ -3,11 +3,11 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/deniils/project-3-eda/blob/main/Readme.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Результат)  
-[6. Выводы](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Выводы)
+[2. Какой кейс решаем?](https://github.com/deniils/project-3-eda/blob/main/Readme.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/deniils/project-3-eda/blob/main/Readme.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/deniils/project-3-eda/blob/main/Readme.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/deniils/project-3-eda/blob/main/Readme.md#Результат)  
+[6. Выводы](https://github.com/deniils/project-3-eda/blob/main/Readme.md#Выводы)
 
 ### Описание проекта
 Представьте, что вы работаете дата-сайентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
